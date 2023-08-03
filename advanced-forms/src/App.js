@@ -1,6 +1,11 @@
+import SurveyRoutes from "./components/SurveyRoutes";
+
 function App() {
   return (
-    <h1>Hello from App</h1>
+    <>
+      <h1>a/A Forms</h1>
+      <SurveyRoutes />
+    </>
   );
 }
 
